@@ -2,6 +2,4 @@ install.packages("tidyverse")
 
 library(tidyverse)
 
-Here is an errorneos third line
-
-
+install.packages(c("nycflights13", "gapminder", "Lahman"))
